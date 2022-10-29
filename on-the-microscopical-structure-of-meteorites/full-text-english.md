@@ -2,6 +2,8 @@
 
 ## By H. C. Sorby, F. R. S., _etc._
 
+### Recieved June 7, 1864.
+
 For some time past I have endeavoured to apply to the study of meteorites the principles I have made use of in the investigation of terrestrial rocks, as described in my various papers, and especially in that on the microscopical structure of crystals (Quart. Journ. Geol. Soc. 1858, vol. 14. p. 453). I therein showed that the presence in crystals of "fluid-, glass-, stone-, or gas-cavities" enables us to determine in a very satisfactory manner under what conditions the crystals were formed. There are also other methods of inquiry still requiring much investigation, and a number of experiments must be made which will occupy much time; yet, not wishing to postpone the publication of certain facts, I purpose now to give a short account of them, to be extended and completed on a subsequent occasion.*
 
 *) The names given thus (Stannern) indicate what meteorites I more particularly refer to in proof of the various facts previously stated.
