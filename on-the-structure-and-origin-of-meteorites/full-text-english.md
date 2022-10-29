@@ -34,4 +34,16 @@ I will now proceed to consider some facts connected with meteoric irons. The so-
 
 White chilled refined iron has an entirely different structure and more uniform crystallisation, the structure is very remarkable and beautiful, mainly due to the varying crystallisation of an intensely hard compound of iron and carbon, and the two other softer compounds met with in grey pig.
 
-...
+Malleable bar iron has an entirely different structure, and shows fibres of black slag, and a more or less uniform crystallisation of iron with a varying small amount of carbon.
+
+Cast steel differs again very much from any of the previous. It shows a fine-grained structure, due to small radiating crystals, and no plates of graphite.
+
+The difference between any of the above and meteoric iron is extremely great.
+
+In the case of Bessemer metal we have a crystalline structure approaching in some places more nearly to that of meteoric iron. We see a sort of Widmanstatt's figuring, but it is due to the separation of free iron from a compound containing a little carbon, and not to a variation in the amount of nickel.
+
+The nearest approach to the structure of meteoric iron is met with in the central portion of thick bars of Swedish iron, kept for some weeks at a temperature below their melting point, but high enough to give rise to recrystallisation. We then get a complete separation of free iron from a compound containing some carbon, and a crystalline structure which, as far as mere form is concerned, most closely corresponds with that of meteoric iron, as may be at once seen on comparing them.
+
+These facts clearly indicate that the Widmanstatt's figuring is the result of such a complete separation of the constituents and perfect crystallisation as can occur only when the process takes place slowly and gradually. They appear to me to show that meteoric iron was kept for a long time at a heat just below the point of fusion, and that we should be by no means justified in concluding that it was not previously melted. Similar principles are applicable in the case of the iron masses found in Disco, and it by no means follows that they are meteoric because they show the Widmanstatt's figuring. Difference in the rate of cooling would serve very well to explain the difference in the structure of some meteoric iron, which do not differ in chemical composition; but, as far as the general structure is concerned, I think that we are quite at liberty to conclude that all may have been melted, if this will better explain other phenomena. On this supposition we may account for the separation of the iron from the stony meteorites, since under conditions which brought into play only a moderate gravitative force, the melted iron would subside through the melted stone, as happens in our furnaces; whilst at the same time, as shown in my paper read at the meeting of the British Association in 1864, where the separating force of gravitation was small, they might remain mixed together, as in the Pallas iron, and others of that type.
+
+In conclusion I would say that though from want of adequate material for investigation I feel that what I have so far done is very incomplete, yet I think that the facts I have described will, at all events, serve to prove that the method of study employed cannot fail to yield most valuable results, and to throw much light on many problems of great interest and importance in several different branches of science.
