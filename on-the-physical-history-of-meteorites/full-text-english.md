@@ -2,7 +2,7 @@
 
 ## By H. C. Sorby, F. R. S.
 
-### 1866.
+### July 1865.
 
 Though I am most willing to admit that much remains to be learned before we can look upon the following theory as anything more than provisional, yet at all events it serves to unite a great number of facts, and is not opposed to any with which I am now acquainted. I shall describe the facts and discuss the objections to this and other theories in a communication to the Royal Society.
 
